@@ -58,19 +58,19 @@ body{
     background-size:90px;
  }
  
- .language:nth-child(1) .image{background-image:url("images/letter-c.png");}
- .language:nth-child(2) .image{background-image:url("images/c-sharp.png");}
- .language:nth-child(3) .image{background-image:url("images/css-3.png");}
- .language:nth-child(4) .image{background-image:url("images/react.png");}
- .language:nth-child(5) .image{background-image:url("images/nodejs.png");}
- .language:nth-child(6) .image{background-image:url("images/html-5.png");}
- .language:nth-child(7) .image{background-image:url("images/java.png");}
- .language:nth-child(8) .image{background-image:url("images/javascript.png");}
- .language:nth-child(9) .image{background-image:url("images/php.png");}
- .language:nth-child(10) .image{background-image:url("images/mysql.png");}
- .language:nth-child(11) .image{background-image:url("images/cpp.png");}
- .language:nth-child(12) .image{background-image:url("images/python.png");}
- .language:nth-child(13) .image{background-image:url("images/ruby.png");}
+ .language:nth-child(1) .image{background-image:url("./images/letter-c.png");}
+ .language:nth-child(2) .image{background-image:url("./images/c-sharp.png");}
+ .language:nth-child(3) .image{background-image:url("./images/css-3.png");}
+ .language:nth-child(4) .image{background-image:url("./images/react.png");}
+ .language:nth-child(5) .image{background-image:url("./images/nodejs.png");}
+ .language:nth-child(6) .image{background-image:url("./images/html-5.png");}
+ .language:nth-child(7) .image{background-image:url("./images/java.png");}
+ .language:nth-child(8) .image{background-image:url("./images/javascript.png");}
+ .language:nth-child(9) .image{background-image:url("./images/php.png");}
+ .language:nth-child(10) .image{background-image:url("./images/mysql.png");}
+ .language:nth-child(11) .image{background-image:url("./images/cpp.png");}
+ .language:nth-child(12) .image{background-image:url("./images/python.png");}
+ .language:nth-child(13) .image{background-image:url("./images/ruby.png");}
 
  .github #gitImg{
    height: 5%;
