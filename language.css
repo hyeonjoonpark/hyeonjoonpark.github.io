@@ -83,4 +83,62 @@ body{
    width: 5%;
    float: right;
  }
- 
+
+ #nav {
+   list-style: none;
+   height: 40px;
+   padding: 5px 1px;
+   margin: 0;
+   display: flex;
+   justify-content: center;
+ }
+
+ #nav li {
+   float: left;
+   position: relative;
+   margin: 5px 30px;
+   padding: 0px;
+   background-color: lightblue;
+   color:black;
+   font-weight: bold;
+ }
+
+ #nav li a {
+   display: block;
+   padding: 7px 8px;
+   margin: 0;
+   font-size: 10px;
+ }
+
+ #nav li:hover > a {
+   background-color: lightcyan;
+   margin: 0;
+   padding: 5px;
+ }
+
+ #nav ul {
+   margin: 0;
+   padding: 0;
+   position: absolute;
+   text-align: center;
+   width: 60px;
+   list-style: none;
+   background-color: whitesmoke;
+   opacity: 0;
+ }
+
+ #nav ul li {
+   float: none;
+   margin: 0;
+   padding: 0;
+ }
+
+ #nav li:hover ul {
+   opacity: 1;
+ }
+
+ #nav li:hover ul li {
+   height: 20px;
+   overflow: visible;
+   padding: 0;
+ }
