@@ -1,5 +1,6 @@
 h4 {
     text-align: center;
+    font-size: 40px;
 }
 
 .write {
@@ -17,4 +18,7 @@ legend {
 }
 button {
     text-align: center;
+}
+body {
+    background-color: rgb(171, 200, 235);
 }

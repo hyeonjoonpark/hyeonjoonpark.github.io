@@ -8,54 +8,6 @@
   <link rel="stylesheet" href="language.css">
 </head>
 <body>
-<script>
-    export default {
-	data() { //변수 생성
-		return{
-			board_code:'news'
-			,subject:''
-			,cont:''
-			,id:'admin'
-			,form:'' //form 전송 데이터
-		}
-	}
-	,methods:{
-		fnList(){ //리스트 화면으로 이동 함수
-			this.$router.push({path:'./list',query:this.body});
-			
-		}
-		,fnAddProc() { //등록 프로세스
-			if(!this.subject) { //제목이 없다면 값을 입력하라고 알려준다.
-				alert("제목을 입력해 주세요");
-				this.$refs.subject.focus(); //방식으로 선택자를 찾는다.
-				return;
-			}
-
-			this.form = { //backend로 전송될 POST 데이터
-				board_code:this.board_code
-				,subject:this.subject
-				,cont:this.cont
-				,id:this.id
-			} 
-			
-			this.$axios.post('http://localhost:3000/api/board',this.form)
-			.then((res)=>{
-				if(res.data.success) {
-					alert('등록되었습니다.');
-					this.fnList();
-				} else {
-					alert("실행중 실패했습니다.\n다시 이용해 주세요");
-				}
-			})
-			.catch((err)=>{
-				console.log(err);
-			})
-			
-		}
-	}	
-}
-</script>
-
     <h1>PROGRAMMING LANGUAGES</h1>
     <ul id="nav">
         <li>
@@ -134,11 +86,6 @@
                 </div>
             </div>
                         
-      </div>
-         
-      <div class="logo">
-         <img src="./images/coding.png" alt="programming" onclick="window.open('https://codeup.kr/')">
-         </div>
       </div>
     <div class="sns">
         <div class="github"v>
