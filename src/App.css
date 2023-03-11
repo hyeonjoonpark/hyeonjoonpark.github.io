@@ -1,0 +1,206 @@
+.App {
+  text-align: center;
+  cursor: pointer;
+}
+
+html {
+  background: rgb(70, 70, 70);
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+}
+
+.header-wrap {
+  align-items: center;
+  font-size: 20px;
+  display: flex;
+  position: fixed;
+  width: 100vw;
+  height: 100px;
+  font-weight: 500;
+  opacity: 1;
+  background: rgb(0, 0, 34);
+  color: white;
+}
+
+.header-wrap .header-title {
+  margin-left: 9vw;
+}
+
+.header-wrap .navigation-wrap .navigation-title {
+  align-items: center;
+  margin: 0 25;
+}
+
+.header-wrap .navigation-wrap {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: 8vw;
+  justify-content: center;
+  margin-left: 8vw;
+  margin-left: auto;
+}
+
+div {
+  display: block;
+}
+
+.header-wrap {
+  position: fixed;
+}
+
+.navigation-wrap {
+  scroll-behavior: smooth;
+  display: block;
+  text-align:center;
+  overflow-y: scroll;
+}
+
+.navigation-wrap .navigation-title {
+  margin-right: 3vw;
+}
+
+.home-wrap h2 {
+  color: white;
+}
+
+#item-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  scroll-snap-align: center;
+  scroll-snap-stop: always;
+  width: 100vw;
+  background: rgb(70, 70, 70);
+  color: white;
+}
+
+.home-wrap span {
+  font-size: 6vw;
+}
+
+.home-title-wrap:hover {
+  color: rgb(5, 5, 123);
+}
+
+.home-wrap p {
+  font-size: 1.5vw;
+  margin-top: 1.4vw;
+}
+
+
+#tech-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  scroll-snap-align: center;
+  scroll-snap-stop: always;
+  width: 100vw;
+  background: rgb(70, 70, 70);
+  color: white;
+}
+
+.tech-title-wrap, .study-title-wrap {
+  font-size: 3vw;
+}
+
+.img-wrap img {
+  width: 4.8vw;
+  height: 4.8vw;
+  margin-right: 3vw;;
+  margin-bottom: 2.5vw;
+  opacity: 0;
+}
+
+.img-wrap img:hover {
+  opacity: 1;
+}
+
+.img-wrap {
+  display: flex;
+  float: left;
+  margin-top: 2.5vw;
+}
+
+#interest-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  scroll-snap-align: center;
+  scroll-snap-stop: always;
+  width: 100vw;
+  background: rgb(70, 70, 70);
+  color: white;
+}
+
+.hobby img {
+  width: 160px;
+  height: auto;
+  margin-top: 25px;
+}
+
+.hobby img {
+  margin-left: 20px;
+  float: left;
+  margin-right: 30px;
+}
+
+#interest-section {
+  margin-top: 20px;
+  display: flex;
+}
+
+.hobby p{
+  margin-top: 20px;
+  display: flex;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.hobby {
+  width: 100%;
+  height: 15vw;
+}
+
+#contect-section {
+  display: inline-flex;
+}
+
+#contect-section a{
+  display: flex;
+  float: left;
+}
+
+#contect-section img {
+  width: 60px;
+  margin-left: 20px;
+  height: 60px;
+  float: left;
+}
+
+.link {
+  margin-left: 20px;
+}
+
+.link a {
+  margin-left: 20px;
+  font-size: 30px;
+}
+
+a { 
+  text-decoration:none;
+  color: whitesmoke;
+}
