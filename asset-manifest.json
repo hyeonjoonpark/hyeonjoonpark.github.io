@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-github-pages/static/css/main.d1f2e215.css",
+    "main.js": "/react-github-pages/static/js/main.49777d85.js",
+    "static/js/787.ef52bbcd.chunk.js": "/react-github-pages/static/js/787.ef52bbcd.chunk.js",
+    "static/media/email.png": "/react-github-pages/static/media/email.00cad07fc47e95dab520.png",
+    "static/media/c.png": "/react-github-pages/static/media/c.c0da8156a8d17281c29e.png",
+    "static/media/friend.png": "/react-github-pages/static/media/friend.cb4ebe2917f75c081722.png",
+    "static/media/java.png": "/react-github-pages/static/media/java.6c1a3b5f7e2d535bff5b.png",
+    "static/media/reactjs.webp": "/react-github-pages/static/media/reactjs.fc0396332c9ab25d028a.webp",
+    "static/media/python.png": "/react-github-pages/static/media/python.520031e8cff48202542c.png",
+    "static/media/basketball.png": "/react-github-pages/static/media/basketball.77d0c17436b1e7ffa1dc.png",
+    "static/media/springboot.png": "/react-github-pages/static/media/springboot.94f201ce44348763e6a5.png",
+    "static/media/node.png": "/react-github-pages/static/media/node.e328955d6bbbf3ebc72b.png",
+    "static/media/js.png": "/react-github-pages/static/media/js.2e10b2a247e94504d12c.png",
+    "static/media/code.webp": "/react-github-pages/static/media/code.9bd45fc7aa98e375894f.webp",
+    "static/media/instagram.png": "/react-github-pages/static/media/instagram.85e869a755c605162bb9.png",
+    "static/media/mysql.png": "/react-github-pages/static/media/mysql.4676ad983d6bd3e9fac9.png",
+    "index.html": "/react-github-pages/index.html",
+    "main.d1f2e215.css.map": "/react-github-pages/static/css/main.d1f2e215.css.map",
+    "main.49777d85.js.map": "/react-github-pages/static/js/main.49777d85.js.map",
+    "787.ef52bbcd.chunk.js.map": "/react-github-pages/static/js/787.ef52bbcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1f2e215.css",
+    "static/js/main.49777d85.js"
+  ]
+}
