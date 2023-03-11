@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/hyeonjoonpark.github.io/static/css/main.f9b4e97c.css",
-    "main.js": "/hyeonjoonpark.github.io/static/js/main.16e9ab0a.js",
-    "static/js/787.ef52bbcd.chunk.js": "/hyeonjoonpark.github.io/static/js/787.ef52bbcd.chunk.js",
-    "static/media/email.png": "/hyeonjoonpark.github.io/static/media/email.00cad07fc47e95dab520.png",
-    "static/media/c.png": "/hyeonjoonpark.github.io/static/media/c.c0da8156a8d17281c29e.png",
-    "static/media/friend.png": "/hyeonjoonpark.github.io/static/media/friend.cb4ebe2917f75c081722.png",
-    "static/media/java.png": "/hyeonjoonpark.github.io/static/media/java.6c1a3b5f7e2d535bff5b.png",
-    "static/media/reactjs.webp": "/hyeonjoonpark.github.io/static/media/reactjs.fc0396332c9ab25d028a.webp",
-    "static/media/python.png": "/hyeonjoonpark.github.io/static/media/python.520031e8cff48202542c.png",
-    "static/media/basketball.png": "/hyeonjoonpark.github.io/static/media/basketball.77d0c17436b1e7ffa1dc.png",
-    "static/media/springboot.png": "/hyeonjoonpark.github.io/static/media/springboot.94f201ce44348763e6a5.png",
-    "static/media/node.png": "/hyeonjoonpark.github.io/static/media/node.e328955d6bbbf3ebc72b.png",
-    "static/media/js.png": "/hyeonjoonpark.github.io/static/media/js.2e10b2a247e94504d12c.png",
-    "static/media/code.webp": "/hyeonjoonpark.github.io/static/media/code.9bd45fc7aa98e375894f.webp",
-    "static/media/instagram.png": "/hyeonjoonpark.github.io/static/media/instagram.85e869a755c605162bb9.png",
-    "static/media/mysql.png": "/hyeonjoonpark.github.io/static/media/mysql.4676ad983d6bd3e9fac9.png",
-    "index.html": "/hyeonjoonpark.github.io/index.html",
-    "main.f9b4e97c.css.map": "/hyeonjoonpark.github.io/static/css/main.f9b4e97c.css.map",
-    "main.16e9ab0a.js.map": "/hyeonjoonpark.github.io/static/js/main.16e9ab0a.js.map",
-    "787.ef52bbcd.chunk.js.map": "/hyeonjoonpark.github.io/static/js/787.ef52bbcd.chunk.js.map"
+    "main.css": "/static/css/main.f9b4e97c.css",
+    "main.js": "/static/js/main.d9977d27.js",
+    "static/js/787.ef52bbcd.chunk.js": "/static/js/787.ef52bbcd.chunk.js",
+    "static/media/email.png": "/static/media/email.00cad07fc47e95dab520.png",
+    "static/media/c.png": "/static/media/c.c0da8156a8d17281c29e.png",
+    "static/media/friend.png": "/static/media/friend.cb4ebe2917f75c081722.png",
+    "static/media/java.png": "/static/media/java.6c1a3b5f7e2d535bff5b.png",
+    "static/media/reactjs.webp": "/static/media/reactjs.fc0396332c9ab25d028a.webp",
+    "static/media/python.png": "/static/media/python.520031e8cff48202542c.png",
+    "static/media/basketball.png": "/static/media/basketball.77d0c17436b1e7ffa1dc.png",
+    "static/media/springboot.png": "/static/media/springboot.94f201ce44348763e6a5.png",
+    "static/media/node.png": "/static/media/node.e328955d6bbbf3ebc72b.png",
+    "static/media/js.png": "/static/media/js.2e10b2a247e94504d12c.png",
+    "static/media/code.webp": "/static/media/code.9bd45fc7aa98e375894f.webp",
+    "static/media/instagram.png": "/static/media/instagram.85e869a755c605162bb9.png",
+    "static/media/mysql.png": "/static/media/mysql.4676ad983d6bd3e9fac9.png",
+    "index.html": "/index.html",
+    "main.f9b4e97c.css.map": "/static/css/main.f9b4e97c.css.map",
+    "main.d9977d27.js.map": "/static/js/main.d9977d27.js.map",
+    "787.ef52bbcd.chunk.js.map": "/static/js/787.ef52bbcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9b4e97c.css",
-    "static/js/main.16e9ab0a.js"
+    "static/js/main.d9977d27.js"
   ]
 }
