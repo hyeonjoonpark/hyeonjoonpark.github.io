@@ -9,7 +9,7 @@ class Nav extends Component {
                         <a href="/">hyeonjoonpark</a>
                     </span>
                     <div className='navigation-wrap'>
-                        <span className='navigation-title'><a href="#item-section">Who am I</a></span>
+                        <span className='navigation-title'><a href="#item-section">About</a></span>
                         <span className='navigation-title'><a href="#tech-section">My Tech</a></span>
                         <span className='navigation-title'><a href="#interest-section">Interest</a></span>
                         <span className='navigation-title'><a href="#contect-section">Contect</a></span>

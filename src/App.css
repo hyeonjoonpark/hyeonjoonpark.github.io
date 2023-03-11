@@ -26,13 +26,9 @@ html {
   color: white;
 }
 
-.header-wrap .header-title {
-  margin-left: 9vw;
-}
 
 .header-wrap .navigation-wrap .navigation-title {
   align-items: center;
-  margin: 0 25;
 }
 
 .header-wrap .navigation-wrap {
@@ -40,11 +36,9 @@ html {
   display: flex;
   height: 100%;
   justify-content: center;
-  margin-left: auto;
-  margin-right: 8vw;
   justify-content: center;
-  margin-left: 8vw;
-  margin-left: auto;
+  /* margin-left: auto; */
+  left : 25px;
 }
 
 div {
@@ -63,7 +57,11 @@ div {
 }
 
 .navigation-wrap .navigation-title {
-  margin-right: 3vw;
+  padding: 0 25px;
+}
+
+.header-wrap .header-title {
+  padding:  0 25px;
 }
 
 .home-wrap h2 {
@@ -204,19 +202,18 @@ a {
   color: whitesmoke;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1000px) {
   .header-wrap {
     display: flex;
     flex-direction: column;
     width: 100%;
     align-items: center;
-
   }
 
-  .navigation-wrap {
+  .header-title {
     display: flex;
+    flex-direction: column;
     align-items: center;
     width: 100%;
-    padding: 8px 12px;
   }
 }
